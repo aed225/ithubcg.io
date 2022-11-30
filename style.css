@@ -50,12 +50,14 @@ body {
   background-image: url(img/feature2.jpg);
   background-size: cover;
   grid-area: feature1;
+  text-shadow: 1px 1px 5px black;
 }
 
 .feature-2 {
   background-image: url(img/feature1.jpg);
   background-size: cover;
   grid-area: feature2;
+  text-shadow: 1px 1px 5px black;
 }
 
 .prices {
